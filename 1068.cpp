@@ -1,8 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-// CSES Weird Algorithm
-
+// CSES Weird Algorithm 1068:
 int main(){
     long n;
     cin >> n;
